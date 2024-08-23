@@ -1,10 +1,6 @@
 # CUBETHON
-I have coded, desgined theis app with unity and VS, and also included builds to it. This game is coded in C# using Unity libraies and is performing good on all parts.
+A simple interface app made using unity and VS for C#.
 
-This game has four levels, designed to play, and quits when button is pressed.
-
-It is windowed app which means you cannot change the size of the window.
-
-![image](https://github.com/user-attachments/assets/2fee66b4-43e1-46f0-befb-ee0b72673743)
+![image](https://github.com/user-attachments/assets/9fe08d74-f788-4655-bec8-444918858787)
 
 - Builds/Win.v3 is has the complete installation.
